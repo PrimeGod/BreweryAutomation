@@ -33,6 +33,6 @@ Le quatrième projet consiste à développer un contrôle automatique/à distanc
   On cherche à contrôler le débit et la température.
   Équipements à déterminer.
   
-Projet 5 (*i*futur*i*):
+Projet 5 (*futur*):
 Le cinquième projet consiste à développer un système d'embouteillage.
 Tout à déterminer.
