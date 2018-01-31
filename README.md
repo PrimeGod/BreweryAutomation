@@ -17,7 +17,7 @@ Le second projet consiste à développer un contrôle automatique et/ou à dista
                                               - Capteur flotteur pour le volume total (modèle à déterminer
                                               - Thermocouple type-T (modèle à déterminer)
                                               - Système de refroidissement glycol avec pompe de recirculation
-                                              - Controlleur SHINKP JCL-33A
+                                              - Controlleur SHINKO JCL-33A
 
 # Projet 3:
 Le troisième projet consiste à développer un contrôle à distance les fermenteurs.
